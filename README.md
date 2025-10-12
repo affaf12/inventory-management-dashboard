@@ -23,11 +23,7 @@ Designed with a **Star Schema**:
 ---
 
 ## 📸 Dashboard Preview
-![Overview](./screenshots/overview.png)  
-![Stock on Hand](./screenshots/stock_on_hand.png)  
-![Target vs Actual](./screenshots/target_vs_actual.png)  
-![Stock Evolution](./screenshots/stock_evolution.png)  
-
+![Overview](3.jpg)  
 ---
 
 ## 🧑‍💻 Skills Applied
