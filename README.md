@@ -2,6 +2,11 @@
 
 🚀 A complete **Power BI Dashboard** built to analyze **Inventory Management** with both operational and financial insights.  
 
+
+
+---
+## 📅 Project Duration
+**SEP 2025 – SEP 2025**
 ---
 
 ## 🔍 Key Insights
